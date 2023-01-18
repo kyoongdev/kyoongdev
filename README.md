@@ -17,5 +17,5 @@
 ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat)
 
 
-[![Kyoongdev's Stats](https://github-readme-stats.vercel.app/api?username=kyoongdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)]
+[Kyoongdev's Stats](https://github-readme-stats.vercel.app/api?username=kyoongdev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoongdev&layout=compact)](https://github.com/kyoongdev)
