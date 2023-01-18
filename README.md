@@ -1,7 +1,9 @@
-### Kyoongdev
+## 🐬 Kyoongdev
+---
 보이지 않는 가치를 찾는 개발자 **Kyoongdev**입니다.
 
-### 🐵 Tech
+## 🐵 Tech
+---
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Nestjs](https://img.shields.io/badge/NestJs-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400?logo=javascript&logoColor=white&style=flat)
