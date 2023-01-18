@@ -9,4 +9,4 @@
 ![Nestjs](https://img.shields.io/badge/NestJs-#E0234E&logoColor=white&style=flat)
 
 [![kyoongdev's github stats](https://github-readme-stats.vercel.app/api?username=kyoongdev)](https://github.com/kyoongdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnoel&layout=compact)](https://github.com/nnnn
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoongdev&layout=compact)](https://github.com/kyoongdev)
