@@ -18,4 +18,5 @@
 
 
 ![Kyoongdev's Stats](https://github-readme-stats.vercel.app/api?username=kyoongdev&show_icons=true&cache_seconds=86400&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoongdev&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoongdev&layout=compact&theme=chartreuse-dark)
