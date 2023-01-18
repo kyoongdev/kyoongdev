@@ -5,15 +5,11 @@
 
 보이지 않는 가치를 찾는 개발자 **Kyoongdev**입니다.
 
-🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
-
-🏢 Huemonelab - FE/BE (2020.09 ~ 2021.04)
-
-🏢 Fuseble (with Freelancer) - FE/BE / Co-Founder (2021.11 ~ 2022.10)
-
-🏢 MayB (Sole Proprietorship) - BE / BE Tutor (2022.10 ~)
-
-🏢 CodeStates - FE Tutor (2023.01 ~ 2023.04)
+- 🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
+- 🏢 Huemonelab - FE/BE (2020.09 ~ 2021.04)
+- 🏢 Fuseble (with Freelancer) - FE/BE / Co-Founder (2021.11 ~ 2022.10)
+- 🏢 MayB (Sole Proprietorship) - BE / BE Tutor (2022.10 ~)
+- 🏢 CodeStates - FE Tutor (2023.01 ~ 2023.04)
 
 
 ## 🐵 Tech
