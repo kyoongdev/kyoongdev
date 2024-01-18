@@ -11,7 +11,7 @@
 - 🏢 MayB (Sole Proprietorship) - BE / BE Tutor (2022.10 ~)
 - 🏢 CodeStates - FE Tutor (2023.01 ~ 2023.04)
 - 🏢 Wata inc. - FE Freelancer (2023.02 ~ 2023.04)
-- 🏢 cumuco - BE/DevOps (2023.05 ~ )
+- 🏢 cumuco - BE/DevOps (2023.05 ~ 2023.12)
 
 
 ## 🐵 Tech
