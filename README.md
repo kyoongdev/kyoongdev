@@ -6,7 +6,7 @@
 보이지 않는 가치를 찾는 개발자 **Kyoongdev**입니다.
 
 - 🏫 Konkuk Univ. Industrial Engineerging
-- 🏢 Huemonelab (인턴) - FE/BE/기획 (2020.09 ~ 2021.04)
+- 🏢 Huemonelab (인턴) - FE/BE/기획 (2020.09 ~ 2021.03)
 - 🏢 (주) 퓨저블 - BE (2022.03 ~ 2022.10)
 
 ## 🐵 Tech
