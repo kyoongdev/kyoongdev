@@ -17,7 +17,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400?logo=javascript&logoColor=white&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF?logo=typescript&logoColor=white&style=flat)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 
 
 ![Kyoongdev's Stats](https://github-readme-stats.vercel.app/api?username=kyoongdev&show_icons=true&cache_seconds=86400&theme=chartreuse-dark)
