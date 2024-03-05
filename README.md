@@ -9,7 +9,7 @@
 - 🏢 Huemonelab (인턴) - FE/BE/기획 (2020.09 ~ 2021.03)
 - 🏢 (주) 퓨저블 - BE (2022.03 ~ 2022.10)
 
-## 🐵 Tech
+## 🐵 Programming Language
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Nestjs](https://img.shields.io/badge/NestJs-E0234E?logo=nestjs&logoColor=white&style=flat)
