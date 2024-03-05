@@ -5,14 +5,9 @@
 
 보이지 않는 가치를 찾는 개발자 **Kyoongdev**입니다.
 
-- 🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
-- 🏢 Huemonelab - FE/BE (2020.09 ~ 2021.04)
-- 🏢 Fuseble (with Freelancer) - FE/BE / Co-Founder (2021.11 ~ 2022.10)
-- 🏢 MayB (Sole Proprietorship) - BE / BE Tutor (2022.10 ~)
-- 🏢 CodeStates - FE Tutor (2023.01 ~ 2023.04)
-- 🏢 Wata inc. - FE Freelancer (2023.02 ~ 2023.04)
-- 🏢 cumuco - BE/DevOps (2023.05 ~ 2023.12)
-
+- 🏫 Konkuk Univ. Industrial Engineerging
+- 🏢 Huemonelab (인턴) - FE/BE/기획 (2020.09 ~ 2021.04)
+- 🏢 (주) 퓨저블 - BE (2022.03 ~ 2022.10)
 
 ## 🐵 Tech
 
@@ -22,6 +17,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400?logo=javascript&logoColor=white&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF?logo=typescript&logoColor=white&style=flat)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 
 
 ![Kyoongdev's Stats](https://github-readme-stats.vercel.app/api?username=kyoongdev&show_icons=true&cache_seconds=86400&theme=chartreuse-dark)
