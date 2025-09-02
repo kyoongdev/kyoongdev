@@ -1,7 +1,6 @@
 ## 🐬 Kyoongdev
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:9898junjun2@gmail.com)](mailto:9898junjun2@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoongdev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 보이지 않는 가치를 찾는 개발자 **Kyoongdev**입니다.
 
@@ -22,3 +21,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoongdev&layout=compact&theme=chartreuse-dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyoongdev)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 🚀 Activity
+<a href="https://opgc.me/#/users/kyoongdev" target="_blank"><img src="https://api.opgc.me/githubs/users/koongdev/tag/?theme=basic" /></a>
+![Metrics](https://raw.githubusercontent.com/kyoongdev/kyoongdev/main/github-metrics.svg)
