@@ -23,6 +23,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyoongdev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🚀 Activity
-<a href="https://opgc.me/#/users/kyoongdev" target="_blank"><img src="https://api.opgc.me/githubs/users/koongdev/tag/?theme=basic" /></a>
-![Metrics](https://raw.githubusercontent.com/kyoongdev/kyoongdev/main/github-metrics.svg)
